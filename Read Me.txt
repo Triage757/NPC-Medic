@@ -1,0 +1,18 @@
+Author: Triage
+Version: 1.0
+
+****Type getpos in your conolse to your coordinates!*****
+
+Installation Instructions
+
+1. Go to your Garrys Mod/Addon directory. 
+2. Drag and drop the "NPC-Medic" folder into your addons folder. 
+3. To edit the position of the NPC go to "NPC-Medic/lua/autorun" and open sh_healnpc.
+4. To change the position of the NPC edit the first line. Remember to seperate with commas.
+5. To edit the direction the NPC faces change the middle number on the second line.
+
+
+Notes
+*I plan on adding a config file.
+*Also plan on adding the npc to calculate your health and then give you a price to heal you. So instead of chargin a flat rate it will charge you only by the amount of health you acutally need. 
+
